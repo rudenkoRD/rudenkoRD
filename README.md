@@ -25,7 +25,6 @@
 
 ## :bar_chart: Stats:
 <p>
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=rudenkoRD&show_icons=true&theme=dark"/>
-  <div width=10></div>
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=rudenkoRD&show_icons=true&theme=dark"/>&nbsp;&nbsp;
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudenkoRD&layout=compact&theme=dark"/>
 </p>
