@@ -22,3 +22,9 @@
   <img width="9%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
   <img width="9%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
+
+## :bar_chart: Stats:
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rudenkoRD&show_icons=true&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudenkoRD&layout=compact&theme=dark"/>
+</p>
