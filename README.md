@@ -9,19 +9,19 @@
 **Languages and Tools:**
 
 <p>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <br/>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
   <br/>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <br/>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
