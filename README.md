@@ -24,7 +24,7 @@
 </p>
 
 ## :bar_chart: Stats:
-<p>
-  <a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rudenkoRD&show_icons=true&theme=dark"/></a>
-  <a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudenkoRD&layout=compact&theme=dark"/></a>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rudenkoRD&show_icons=true&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudenkoRD&layout=compact&theme=dark"/>
+</div>
